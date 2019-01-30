@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//common/tool_util.py=utf-8
+encoding//spark/python/model.py=utf-8
+encoding//test/dfrclient.py=utf-8
+encoding//test/dtclient.py=utf-8
+encoding//test/dtrclient.py=utf-8
+encoding//test/gbtcclient.py=utf-8
+encoding//test/gbtrclient.py=utf-8
+encoding//test/kmeansclient.py=utf-8
+encoding//test/ldaclient.py=utf-8
+encoding//test/linarclient.py=utf-8
+encoding//test/mlpclient.py=utf-8
+encoding//test/nbclient.py=utf-8
+encoding//test/postclient.py=utf-8
+encoding//test/rfcclient.py=utf-8
+encoding/database.py=utf-8
+encoding/webserver.py=utf-8

@@ -1,0 +1,7 @@
+{
+	"mysql_host":"10.11.8.32",
+	"mysql_user":"jobcenter",
+	"mysql_password":"jrpH@D!X19i4n9gM0o1u7",
+	"hdfs_path":"/user/root",
+	"spark_master":"yarn"
+}
